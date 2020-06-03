@@ -28,18 +28,5 @@ var part4=
 </html>
 `;
 
-var lanDict=
-{
-  "c++":shBrushCpp,
-  "c#":"shBrushCSharp",
-  "css":"shBrushCss",
-  "delphi":"shBrushDelphi",
-  "xml":"shBrushXml",
-  "java":"shBrushJava",
-  "javascript":"shBrushJScript",
-  "php":"shBrushPhp",
-  "python":"shBrushPython",
-  "ruby":"shBrushRuby",
-  "sql":"shBrushSql",
-  "vb":"shBrushVb",
-};
+var lanDict={"c++":"shBrushCpp","c#":"shBrushCSharp","css":"shBrushCss","delphi":"shBrushDelphi","xml":"shBrushXml","java":"shBrushJava","javascript":"shBrushJScript","php":"shBrushPhp","python":"shBrushPython","ruby":"shBrushRuby","sql":"shBrushSql","vb":"shBrushVb"};
+
