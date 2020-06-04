@@ -5,9 +5,9 @@ var part1=
 <head>
 <meta charset="UTF-8"/>
 <title>Highlighted Code</title>
-<link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/gh/symlc112233/cnblogs@v1.0/Hightlight%20Code/file/styles/SyntaxHighlighter.css"></link>
-<script language="javascript" src="https://cdn.jsdelivr.net/gh/symlc112233/cnblogs@v1.0/Hightlight%20Code/file/scripts/shCore.js"></script>
-<script language="javascript" src="https://cdn.jsdelivr.net/gh/symlc112233/cnblogs@v1.0/Hightlight%20Code/file/scripts/`;
+<link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/gh/symlc112233/cnblogs@v2.0/Hightlight%20Code/file/styles/SyntaxHighlighter.css"></link>
+<script language="javascript" src="https://cdn.jsdelivr.net/gh/symlc112233/cnblogs@v2.0/Hightlight%20Code/file/scripts/shCore.js"></script>
+<script language="javascript" src="https://cdn.jsdelivr.net/gh/symlc112233/cnblogs@v2.0/Hightlight%20Code/file/scripts/`;
 
 var part2=
 `.js"></script>
